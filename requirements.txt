@@ -1,0 +1,5 @@
+requests
+kafka-python
+mysql-connector-python
+statsd
+python-snappy
